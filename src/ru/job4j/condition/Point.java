@@ -16,6 +16,6 @@ public class Point {
         double result3 = Point.distance(33.5, 44.5, 22.5, 33.5);
         System.out.println("result1 (3, 4) to (2, 3) " + result1);
         System.out.println("result2 (30, 40) to (20, 30) " + result2);
-        System.out.println("result2 (33, 44) to (22, 33) " + result3);
+        System.out.println("result2 (33.5, 44.5) to (22.5, 33.5) " + result3);
     }
 }
